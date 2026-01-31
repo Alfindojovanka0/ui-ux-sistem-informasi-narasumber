@@ -15,7 +15,7 @@ Digunakan sebagai rancangan sebelum tahap development.
 - Logout
 
 ## 🔗 Link Figma
-👉 https://figma.com/file/xxxx
+👉 https://www.figma.com/design/dBHKypLxxyyfI2Tt4GyJ5D/project?node-id=111-2&t=8ijxwF9ZQeQmB0sN-1
 
 ## 📷 Preview
 Lihat folder `/screenshots`
